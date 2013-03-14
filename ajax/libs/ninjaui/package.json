@@ -1,6 +1,6 @@
 {
-    "name": "Ninja UI",
-    "filename": "jquery.ninjaui.js",
+    "name": "ninjaui",
+    "filename": "jquery.ninjaui.min.js",
     "version": "1.0.1",
     "description": "The jQuery plugin for lethal interaction",
     "homepage": "http://ninjaui.com/",
@@ -15,9 +15,7 @@
            "web": "http://ninjaui.com/" 
        } 
    ],
-       "bugs": {
-        "web": "https://github.com/ninja/ui/issues/"
-    },
+       "bugs": "https://github.com/ninja/ui/issues/",
 
    "repositories": [
        {
